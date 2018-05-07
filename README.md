@@ -155,7 +155,7 @@ TODO: add picture
 
 ---
 
-## Daikon omlet
+## Daikon Omlet
 
 ![bg](omlet.jpg)
 
@@ -165,7 +165,7 @@ TODO: add details
 
 ---
 
-## Yamaimo pancake
+## Yamaimo Pancake
 
 ![bg](yamaimo-pancake.jpg)
 
