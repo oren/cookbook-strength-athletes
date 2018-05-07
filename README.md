@@ -123,7 +123,7 @@ Cook the quinoa with the cranberries. You can add them from the start or later o
 
 2. Middle
 
-On a skillet, sautÃ© with sesame oil and add chopped onions until they are golden. Add small chicken slices until it's cooked. Add broccoli, a few eggs, 1 tbs of soy sauce and rice vinegar. Turn the hit off and grad the Yamaimo on top of everything.
+On a skillet, sauté with sesame oil and add chopped onions until they are golden. Add small chicken slices until it's cooked. Add broccoli, a few eggs, 1 tbs of soy sauce and rice vinegar. Turn the hit off and grad the Yamaimo on top of everything.
 
 3. Top
 
