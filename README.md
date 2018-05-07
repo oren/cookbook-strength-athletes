@@ -111,7 +111,7 @@ How to make:
 
 Amazing dish with a ton of protein. We have three layers:
 
-**Ingrediants:**
+**Ingredients:**
 1. Bottom - Quinoa, Dried Cranberries
 1. Middle - Sesame oil, Onions, Chicken, Broccoli, Eggs, Soy Sauce, Rice Vinegar, Yamaimo (Japanese mountain yam)
 1. Top - Tomatoes, Seaweed
