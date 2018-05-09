@@ -32,9 +32,8 @@ add syrup to skillet. hit up until you see bubbles. add flour and protein powder
 
 ## Sushi for bodybuilders
 
-![bg](sushi-bodybuilders.jpg)
+![](sushi-bodybuilders.jpg)
 
----
 
 * paper tofu
 * cucumber
@@ -71,9 +70,8 @@ Those cookies are perfect source for carbs after a  lifting session. Eat them wi
 
 ## Daikon salad
 
-![bg](raddish.jpg)
+![](raddish.jpg)
 
----
 
 * Daikon (white radish)
 * Sesame seeds
@@ -94,9 +92,8 @@ How to make it:
 
 ## Yamaimo with Honey
 
-![bg](yamaimo-honey.jpg)
+![](yamaimo-honey.jpg)
 
----
 
 * Yamaimo (Japanese root vegetable)
 * Honey
@@ -109,9 +106,8 @@ How to make:
 
 ## Quinoa with Cranberries
 
-![bg](quinoa.jpg)
+![](quinoa.jpg)
 
----
 
 Amazing dish with a ton of protein. We have three layers:
 
@@ -129,7 +125,7 @@ Cook the quinoa with the cranberries. You can add them from the start or later o
 
 2. Middle
 
-On a skillet, sauté with sesame oil and add chopped onions until they are golden. Add small chicken slices until it's cooked. Add broccoli, a few eggs, 1 tbs of soy sauce and rice vinegar. Turn the hit off and grad the yamaimo on top of everything.
+On a skillet, sautÃ© with sesame oil and add chopped onions until they are golden. Add small chicken slices until it's cooked. Add broccoli, a few eggs, 1 tbs of soy sauce and rice vinegar. Turn the hit off and grad the yamaimo on top of everything.
 
 3. Top
 
@@ -163,9 +159,8 @@ TODO: add picture
 
 ## Mung Bean Soup
 
-![bg](mung-beans.png)
+![](mung-beans.png)
 
----
 
 **Ingredients:**
 
@@ -178,16 +173,15 @@ TODO: add picture
 
 **How to make it:**
 
-Sauté onions and garlic in a big pot, add mung beans, water, trumeric, and salt and wait until it boils.
+SautÃ© onions and garlic in a big pot, add mung beans, water, trumeric, and salt and wait until it boils.
 Lower the heat and keep for 45 minutes. Add the veggies whenever you want during that time.
 
 ---
 
 ## Daikon Omlet
 
-![bg](omlet.jpg)
+![](omlet.jpg)
 
----
 
 TODO: add details
 
@@ -195,7 +189,7 @@ TODO: add details
 
 ## Yamaimo Pancake
 
-![bg](yamaimo-pancake.jpg)
+![](yamaimo-pancake.jpg)
 
 ---
 
