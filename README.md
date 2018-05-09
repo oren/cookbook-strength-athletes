@@ -94,6 +94,10 @@ How to make it:
 
 ## Yamaimo with Honey
 
+![bg](yamaimo-honey.jpg)
+
+---
+
 * Yamaimo (Japanese root vegetable)
 * Honey
 
