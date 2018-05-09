@@ -155,6 +155,26 @@ TODO: add picture
 
 ---
 
+## Mung bean soup
+
+![bg](mung-beans.jpg)
+
+---
+
+**Ingredients:**
+* onion
+* garlic - a few cloves
+* 3 cups of mung beans
+* 9 cups of water
+* Trumeric - 1 tbs, salt
+* Any veggies you want - mushrooms, broccoli, spourt beans, tomatoes
+
+**How to make it:**
+Sauté onions and garlic in a big pot, add mung beans, water, trumeric, and salt and wait until it boils.
+Lower the heat and keep for 45 minutes. Add the veggies whenever you want during that time.
+
+---
+
 ## Daikon Omlet
 
 ![bg](omlet.jpg)
