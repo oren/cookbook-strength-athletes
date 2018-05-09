@@ -94,7 +94,6 @@ How to make it:
 
 ![](yamaimo-honey.jpg)
 
-
 * Yamaimo (Japanese root vegetable)
 * Honey
 
@@ -125,7 +124,7 @@ Cook the quinoa with the cranberries. You can add them from the start or later o
 
 2. Middle
 
-On a skillet, sautÃ© with sesame oil and add chopped onions until they are golden. Add small chicken slices until it's cooked. Add broccoli, a few eggs, 1 tbs of soy sauce and rice vinegar. Turn the hit off and grad the yamaimo on top of everything.
+On a skillet, Saute with sesame oil and add chopped onions until they are golden. Add small chicken slices until it's cooked. Add broccoli, a few eggs, 1 tbs of soy sauce and rice vinegar. Turn the hit off and grad the yamaimo on top of everything.
 
 3. Top
 
@@ -173,7 +172,7 @@ TODO: add picture
 
 **How to make it:**
 
-SautÃ© onions and garlic in a big pot, add mung beans, water, trumeric, and salt and wait until it boils.
+Saute onions and garlic in a big pot, add mung beans, water, trumeric, and salt and wait until it boils.
 Lower the heat and keep for 45 minutes. Add the veggies whenever you want during that time.
 
 ---
