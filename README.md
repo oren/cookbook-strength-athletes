@@ -71,7 +71,7 @@ Those cookies are perfect source for carbs after a  lifting session. Eat them wi
 
 ## Daikon salad
 
-![bg](daikon.png)
+![bg](raddish.jpg)
 
 ---
 
