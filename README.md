@@ -157,7 +157,7 @@ TODO: add picture
 
 ## Mung bean soup
 
-![bg](mung-beans.jpg)
+![bg](mung-beans.png)
 
 ---
 
