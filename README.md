@@ -112,11 +112,13 @@ How to make:
 Amazing dish with a ton of protein. We have three layers:
 
 **Ingredients:**
+
 1. Bottom - Quinoa, Dried Cranberries
 1. Middle - Sesame oil, Onions, Chicken, Broccoli, Eggs, Soy Sauce, Rice Vinegar, Yamaimo (Japanese mountain yam)
 1. Top - Tomatoes, Seaweed
 
 **How to make it:**
+
 1. Bottom
 
 Cook the quinoa with the cranberries. You can add them from the start or later on. Use whatever method you prefer to cook it - pot or instant pot.
@@ -155,13 +157,14 @@ TODO: add picture
 
 ---
 
-## Mung bean soup
+## Mung Bean Soup
 
 ![bg](mung-beans.png)
 
 ---
 
 **Ingredients:**
+
 * onion
 * garlic - a few cloves
 * 3 cups of mung beans
@@ -170,6 +173,7 @@ TODO: add picture
 * Any veggies you want - mushrooms, broccoli, spourt beans, tomatoes
 
 **How to make it:**
+
 Sauté onions and garlic in a big pot, add mung beans, water, trumeric, and salt and wait until it boils.
 Lower the heat and keep for 45 minutes. Add the veggies whenever you want during that time.
 
