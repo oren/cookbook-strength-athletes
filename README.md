@@ -140,8 +140,6 @@ Note: You can also use the following as replacements or additions: rice, shrimp,
 ![](bangladeshian-make.jpg)
 ![](bangladeshian-make2.jpg)
 
----
-
 TODO: add details
 
 ---
@@ -153,6 +151,21 @@ TODO: add details
 Add everything to a blender.
 
 TODO: add picture
+
+---
+
+## PTGY - Power Taro Goji Yogurt
+
+![](taro.jpg)
+
+**Ingredients:**
+
+* Greek Yogurt, milk, salt, taro, goji berries (date or dried fig works as well)
+(The taro will make it more creamy)
+
+**How to make it:**
+
+Cut the taro (root vegetable) into small chunks and put everything in the blender.
 
 ---
 
@@ -219,3 +232,16 @@ https://www.youtube.com/watch?v=jeUrcVr5oMA
 TODO: try making it (:
 
 https://www.youtube.com/watch?v=i_o7DgGW6ac
+
+## Kale Salad
+
+TODO:
+
+---
+
+## Mountain Yam
+
+* Yam, Goji bearries, snowpeas, woodear (fungus, crunchy, healthy, 0 cal mushrooms)
+
+
+---
