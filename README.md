@@ -243,5 +243,28 @@ TODO:
 
 * Yam, Goji bearries, snowpeas, woodear (fungus, crunchy, healthy, 0 cal mushrooms)
 
+---
+
+# Poke with Taro chips
+
+**Ingredients:**
+
+Sashimi-grade tuna ,taro, sesame seeds, rice vinegar, onions/scallions
+
+**How to make it:**
+Cut the taro with a food processor or Kitchen Slicer and bake in the over for 10-15 min on 350 degrees.
+Cut the tuna, add all ingredients and serve it on top of the taro.
+
+---
+
+# Kaarage
+
+**Ingredients:**
+
+Chicken thighs, potato starch, sake, soy sauce, ginger
+
+**How to make it:**
+
+Marinade the chicken 1-2 days in sake, soy sauce and ginger. Cook with a skillet or bake with potato starch.
 
 ---
