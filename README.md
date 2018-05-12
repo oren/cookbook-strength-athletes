@@ -160,7 +160,8 @@ TODO: add picture
 
 **Ingredients:**
 
-* Greek Yogurt, milk, salt, taro, goji berries (date or dried fig works as well)
+* Greek Yogurt, milk, salt, taro, goji berries. Date or dried fig works as well.
+
 (The taro will make it more creamy)
 
 **How to make it:**
