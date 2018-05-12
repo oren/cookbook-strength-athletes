@@ -144,18 +144,10 @@ TODO: add details
 
 ---
 
-## Bangladeshian Yogurt
-
-* Greek Yogurt, milk, salt, date, goji berries
-
-Add everything to a blender.
-
-TODO: add picture
-
----
-
 ## PTGY - Power Taro Goji Yogurt
 
+![](yogurt2.jpg)
+![](yogurt.jpg)
 ![](taro.jpg)
 
 **Ingredients:**
