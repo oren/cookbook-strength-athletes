@@ -57,17 +57,6 @@ hand roll seaweed with everything.
 
 ---
 
-
-## Energy cookies
-
-Those cookies are perfect source for carbs after a  lifting session. Eat them with your protein shake or with raw milk for extra explosive taste.
-
-* ?
-* ?
-* ?
-
----
-
 ## Daikon salad
 
 ![](raddish.jpg)
@@ -131,6 +120,27 @@ On a skillet, Saute with sesame oil and add chopped onions until they are golden
 Serve everything: quinoa at the bottom, the content of the skillet above it, and add tomatoes and seaweed on the top.
 
 Note: You can also use the following as replacements or additions: rice, shrimp, mushrooms, bell pepper, squash, and feta cheese.
+
+---
+
+## Bengali Khichuri with Salmon
+
+![](khichuri.jpg)
+![](khichuri2.jpg)
+
+**Ingredients:**
+
+* Khichuri: Brown rice, mung beans, onions, chillies, broccoli, trumeric, lemon
+* Protein: Salmon
+* Fat: Avocado, chillies, salt
+
+**How to make it:**
+
+* Saute rice, beans, onions, chillies, and trumeric with some oil in a pot for 5 min. Cook with instant pot/slow cooker, or on the stove. Add brocoli toward the end.
+* Cook the salmon with whatever spices you like.
+* Smash the avocado, chillies (cut them super thin), and salt
+
+Serve together and squeeze the lemon on everything.
 
 ---
 
@@ -202,26 +212,6 @@ TODO: add details
 
 ---
 
-## Bengali Khichuri with Salmon
-
-![](khichuri.jpg)
-![](khichuri2.jpg)
-
-**Ingredients:**
-
-* Khichuri: Brown rice, mung beans, onions, chillies, broccoli, trumeric, lemon
-* Protein: Salmon
-* Fat: Avocado, chillies, salt
-
-**How to make it:**
-
-* Saute rice, beans, onions, chillies, and trumeric with some oil in a pot for 5 min. Cook with instant pot/slow cooker, or on the stove. Add brocoli toward the end.
-* Cook the salmon with whatever spices you like.
-* Smash the avocado, chillies (cut them super thin), and salt
-
-Serve together and squeeze the lemon on everything.
-
----
 
 ## Okonomiyaki
 
@@ -241,17 +231,6 @@ https://www.youtube.com/watch?v=jeUrcVr5oMA
 
 ---
 
-## Kazahk Beshbarmak
-
-TODO: try making it (:
-
-https://www.youtube.com/watch?v=i_o7DgGW6ac
-
-## Kale Salad
-
-TODO:
-
----
 
 ## Mountain Yam
 
@@ -280,5 +259,41 @@ Chicken thighs, potato starch, sake, soy sauce, ginger
 **How to make it:**
 
 Marinade the chicken 1-2 days in sake, soy sauce and ginger. Cook with a skillet or bake with potato starch.
+
+---
+
+## Kazahk Beshbarmak
+
+TODO: try making it (:
+
+https://www.youtube.com/watch?v=i_o7DgGW6ac
+
+---
+
+## Energy cookies
+
+Those cookies are perfect source for carbs after a  lifting session. Eat them with your protein shake or with raw milk for extra explosive taste.
+
+* ?
+* ?
+* ?
+
+---
+
+# Unknown Dish (Japanese)
+
+* Any White fish, Yamaimo, Tamari, brown sugar
+
+---
+
+# energy bar
+
+* Maple syrup, nuts, toasted almonds, shredded coconut, walnuts or cashews, fig
+
+---
+
+## Kale Salad
+
+TODO:
 
 ---
